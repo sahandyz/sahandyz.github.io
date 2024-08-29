@@ -1,11 +1,11 @@
 ---
-title: "sahandyz.github.io"
+title: "Bioinformatics and Systems Biology Student"
 ---
 
-This is a Quarto website.
+## Welcome!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+### Projects
 
-```{r}
-1 + 1
-```
+### Work Experience
+
+### Hobbies
