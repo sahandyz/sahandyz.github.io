@@ -5,7 +5,7 @@ about:
   id: hero-heading
   template: trestles
   image-shape: rectangle
-  image-width: 20em
+  image-width: 22em
   links: 
     - icon: github
       text: Github
@@ -33,7 +33,7 @@ Technical University of Denmark, Kongens Lyngby | Capital Region, Denmark | M.Sc
 
 AGC Biologics | GMP Assistant | July 2022 - present
 
-Cypress Mountain Snow School | Ski Instructor | Dec 2019 - March 2020
+Cypress Mountain Snow School | Level 2 Ski Instructor | Dec 2019 - March 2020
 
 
 
