@@ -14,9 +14,11 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: sandstone
     css: styles.css
     toc: true
-
+    mainfont: arial
+    fontsize: 1rem
+    monofont: courier new
+    
 editor: visual
-
