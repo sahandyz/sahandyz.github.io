@@ -2,4 +2,8 @@
 title: "Projects"
 ---
 
-### Alzheimers Disease
+### Bachelor's thesis
+The Importance of Alternative Splicing in Cardiovacular Disease, Obesity, and Type-2 Diabetes.
+
+### Special Projects
+The Importance of Alternative Splicing in Alzheimer's Disease
