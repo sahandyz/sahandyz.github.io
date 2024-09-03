@@ -22,4 +22,8 @@ format:
     fontsize: 1rem
     monofont: courier new
     
+  
+sass:
+  sass_dir: assets/css
+    
 editor: visual
